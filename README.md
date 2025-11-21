@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @1PythonfromCode
-- 👀 I’m interested in learnign about technology and code
+- 👀 I’m interested in learning about technology and code
 - 🌱 I’m currently learning basic technology and python
 - 💞️ I’m looking to collaborate on making a live chat similar to discord
-- 📫 How to reach me reach me at bluewolf1475@outlook.com
+- 📫 If you want to reach me ehh don't
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to learn about technology
 
